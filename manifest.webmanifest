@@ -1,0 +1,12 @@
+{
+  "name": "Donde Mari - Bebidas a domicilio",
+  "short_name": "Donde Mari",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff8f0",
+  "theme_color": "#7a1f3d",
+  "lang": "es-CO",
+  "icons": [
+    { "src": "img/icono.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

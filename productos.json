@@ -1,0 +1,35 @@
+{
+  "tienda": {
+    "nombre": "Donde Mari",
+    "whatsapp": "573115509184",
+    "costoDomicilio": 3000,
+    "domicilioGratisDesde": 60000,
+    "horario": { "abre": 10, "cierra": 23 },
+    "zonas": "Cobertura en la localidad y barrios cercanos. Pedido mínimo $15.000."
+  },
+  "categorias": [
+    { "id": "cervezas", "nombre": "Cervezas" },
+    { "id": "licores", "nombre": "Licores" },
+    { "id": "gaseosas", "nombre": "Gaseosas y aguas" },
+    { "id": "energizantes", "nombre": "Energizantes" },
+    { "id": "snacks", "nombre": "Snacks" }
+  ],
+  "productos": [
+    { "id": 1, "nombre": "Cerveza Águila lata 330 ml", "categoria": "cervezas", "precio": 3500, "destacado": true, "emoji": "🍺" },
+    { "id": 2, "nombre": "Cerveza Poker lata 330 ml", "categoria": "cervezas", "precio": 3500, "destacado": true, "emoji": "🍺" },
+    { "id": 3, "nombre": "Six pack Club Colombia dorada", "categoria": "cervezas", "precio": 24000, "destacado": true, "emoji": "🍻" },
+    { "id": 4, "nombre": "Cerveza Corona 355 ml", "categoria": "cervezas", "precio": 6000, "destacado": false, "emoji": "🍺" },
+    { "id": 5, "nombre": "Aguardiente Antioqueño 750 ml", "categoria": "licores", "precio": 58000, "destacado": true, "emoji": "🥃" },
+    { "id": 6, "nombre": "Aguardiente Antioqueño media 375 ml", "categoria": "licores", "precio": 32000, "destacado": false, "emoji": "🥃" },
+    { "id": 7, "nombre": "Ron Medellín 3 años 750 ml", "categoria": "licores", "precio": 55000, "destacado": false, "emoji": "🥃" },
+    { "id": 8, "nombre": "Vino tinto 750 ml", "categoria": "licores", "precio": 35000, "destacado": false, "emoji": "🍷" },
+    { "id": 9, "nombre": "Coca-Cola 1.5 L", "categoria": "gaseosas", "precio": 6500, "destacado": true, "emoji": "🥤" },
+    { "id": 10, "nombre": "Gaseosa Postobón 1.5 L", "categoria": "gaseosas", "precio": 5000, "destacado": false, "emoji": "🥤" },
+    { "id": 11, "nombre": "Agua Cristal 600 ml", "categoria": "gaseosas", "precio": 2000, "destacado": false, "emoji": "💧" },
+    { "id": 12, "nombre": "Soda Bretaña 300 ml", "categoria": "gaseosas", "precio": 2500, "destacado": false, "emoji": "🫧" },
+    { "id": 13, "nombre": "Bebida energizante 250 ml", "categoria": "energizantes", "precio": 6000, "destacado": false, "emoji": "⚡" },
+    { "id": 14, "nombre": "Vive100 380 ml", "categoria": "energizantes", "precio": 2500, "destacado": true, "emoji": "⚡" },
+    { "id": 15, "nombre": "Papas fritas 110 g", "categoria": "snacks", "precio": 5500, "destacado": false, "emoji": "🥔" },
+    { "id": 16, "nombre": "Hielo bolsa 2 kg", "categoria": "snacks", "precio": 3000, "destacado": true, "emoji": "🧊" }
+  ]
+}
